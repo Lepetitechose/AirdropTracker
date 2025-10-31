@@ -6,7 +6,7 @@
 
 Track your wallet's interactions on chains/protocols that will potentially airdrop their tokens. TrackDrop is a fork from `zkFlow`.
 
-## Features
+## Featuresasdasd
 
 - View number of interactions, volume and gas spent for a given address.
 - View token balances for a specific address.
